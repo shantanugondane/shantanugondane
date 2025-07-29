@@ -47,7 +47,12 @@
 
 ###
 
-![Pacman Contribution Graph](https://raw.githubusercontent.com/shantanugondane/shantanugondane/output/pacman-contribution-graph.svg)
+<div align="center">
+
+![Pacman Contribution Graph](https://raw.githubusercontent.com/shantanugondane/shantanugondane/output/pacman-contribution-graph.svg?raw=true#gh-dark-mode-only)
+![Pacman Contribution Graph](https://raw.githubusercontent.com/shantanugondane/shantanugondane/output/pacman-contribution-graph-dark.svg?raw=true#gh-light-mode-only)
+
+</div>
 
 ###
 
