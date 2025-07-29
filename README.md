@@ -40,16 +40,7 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shantanugondane&show_icons=true&locale=en&layout=compact" alt="top-langs" />
-<img src="https://github-readme-stats.vercel.app/api?username=shantanugondane&show_icons=true&locale=en" alt="github-stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shantanugondane" alt="github-streak" />
-</p>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=shantanugondane&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shantanugondane&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+
 
 ###
 
